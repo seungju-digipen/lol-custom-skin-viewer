@@ -1,0 +1,10 @@
+.data/
+tools/
+.venv/
+config.json
+__pycache__/
+*.pyc
+*.glb
+*.wad.client
+*.fantome
+*.zip
