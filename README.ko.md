@@ -50,3 +50,8 @@ Windows x64, Python 3.11 이상, 설치된 League of Legends와 초기 인터넷
 - [model-viewer](https://github.com/google/model-viewer)
 
 외부 실행 파일은 저장소에 포함하지 않으며 각 도구의 라이선스가 적용됩니다. 롤 원본 데이터, 커스텀 모드, 모델, 이미지, 개인 파일 경로는 포함하지 않습니다. Riot Games와 제휴하지 않은 도구입니다.
+
+
+## GLB web viewer / GLB 웹 뷰어
+
+Use **GLB 다운로드 / Export GLB** in the local viewer, then open `viewer.html` and select the exported file. This static page also works with GitHub Pages. It reads the file in your browser without uploading model data.

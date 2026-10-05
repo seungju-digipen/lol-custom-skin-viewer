@@ -60,3 +60,8 @@ For a hosted version, either build a browser-only viewer for already-converted G
 - [model-viewer](https://github.com/google/model-viewer)
 
 External binaries are not included in this repository and remain subject to their own licenses. No original game assets, custom mods, models, images, or personal file paths are included. This project is not affiliated with Riot Games.
+
+
+## GLB web viewer / GLB 웹 뷰어
+
+Use **GLB 다운로드 / Export GLB** in the local viewer, then open `viewer.html` and select the exported file. This static page also works with GitHub Pages. It reads the file in your browser without uploading model data.
